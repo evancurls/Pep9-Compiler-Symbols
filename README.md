@@ -1,2 +1,9 @@
-# Pep9-Compiler-Symbols
-A Pep9 HOL -> Assembly compiler with symbols
+Pep9 Compiler Symbols README
+============================
+
+
+Serves as a barebones Pep9 compiler
+with functional symbols and comments.
+
+Note: Not all instructions have been imported,
+specifically indexed instructions.
